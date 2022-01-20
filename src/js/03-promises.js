@@ -1,4 +1,4 @@
-import Notiflix from 'notiflix';
+import Notiflix from 'notiflix'
 const form = document.querySelector('.form')
 const inputDelay = document.querySelector('[name = delay]')
 const inputStep = document.querySelector('[name = step]')
